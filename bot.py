@@ -214,7 +214,7 @@ async def start(_, m: Message):
         [InlineKeyboardButton("➕ Add To Group", url="https://t.me/MUSlCXBOT?startgroup=true")],
         [InlineKeyboardButton("📚 Commands", callback_data="help"),
          InlineKeyboardButton("💬 Support", url="https://t.me/KRISH_HACKER_OP")],
-        [InlineKeyboardButton("👤 Owner", url="https://t.me/KRISH_HACKER_OP")]
+        [InlineKeyboardButton("👤 Owner", url="https://t.me/KRISH_HACKER_OWNER")]
     ])
     
     text = (
